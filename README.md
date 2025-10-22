@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z690 Gaming X DDR5, Intel Core i7-12700KF, AMD Radeon RX 550 FakeID
 
+<img width="1988" height="1186" alt="Portfolio" src="https://github.com/user-attachments/assets/aa7ff40c-026c-480f-9217-956ab87cc767" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.8.1)
